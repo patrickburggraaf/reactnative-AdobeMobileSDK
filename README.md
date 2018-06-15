@@ -1,7 +1,7 @@
 # React Native app with Adobe Mobile SDK Bridge
 React native app with Adobe Mobile SDK bridge
 
-This package contains a complete React Native app with a bridge to the mobile SDK from Adobe. Currently we do not have a native React Native SDK, thus needed to build a custom bridge from IOS to the javascript code. More details on how to build a bridge from scratch; https://hub.packtpub.com/using-native-sdks-and-libraries-react-native/
+This package contains a complete React Native app with a bridge to the mobile SDK from Adobe. 
 
 # How to use
 1) Install react-native
